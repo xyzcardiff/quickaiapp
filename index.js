@@ -1,4 +1,4 @@
-// QuickAIApp - Auto-generates social media content calendar
+// QuickAIApp - Creates flashcards and quizzes from notes
 // Built with AI Trend App Builder
 
 const express = require('express');
@@ -10,16 +10,16 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.json({
         app: 'QuickAIApp',
-        description: 'Auto-generates social media content calendar',
+        description: 'Creates flashcards and quizzes from notes',
         status: 'running',
-        built_at: '2026-02-13 09:00:01'
+        built_at: '2026-03-29 09:00:31'
     });
 });
 
 app.get('/api/trend', (req, res) => {
     res.json({
-        topic: 'AI Content Calendar',
-        keywords: ["content AI","social media","scheduler"]
+        topic: 'AI Study Assistant',
+        keywords: ["education AI","study tool","learning"]
     });
 });
 
