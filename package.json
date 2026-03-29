@@ -1,7 +1,7 @@
 {
     "name": "quickaiapp",
     "version": "1.0.0",
-    "description": "Auto-generates social media content calendar",
+    "description": "Creates flashcards and quizzes from notes",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
