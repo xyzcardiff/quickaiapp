@@ -1,9 +1,9 @@
 # QuickAIApp
 
-Auto-generates social media content calendar
+Creates flashcards and quizzes from notes
 
 ## 🎯 Inspired By
-Trending topic: **AI Content Calendar**
+Trending topic: **AI Study Assistant**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -12,14 +12,14 @@ Trending topic: **AI Content Calendar**
 
 ## 🛠 Tech Stack
 - Node.js
-- Next.js
+- Express
 - OpenAI API
-- Twitter API
+- React
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/cagricoskun/quickaiapp.git
+git clone https://github.com/xyzcardiff/quickaiapp.git
 cd quickaiapp
 npm install
 ```
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-02-13*
+*Date: 2026-03-29*
