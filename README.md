@@ -1,9 +1,9 @@
 # QuickAIApp
 
-Creates flashcards and quizzes from notes
+Automated code review with AI suggestions
 
 ## 🎯 Inspired By
-Trending topic: **AI Study Assistant**
+Trending topic: **AI Code Reviewer**
 
 ## 🚀 Features
 - AI-powered core functionality
@@ -11,23 +11,23 @@ Trending topic: **AI Study Assistant**
 - Ready to deploy
 
 ## 🛠 Tech Stack
-- Node.js
-- Express
+- Python
+- Flask
 - OpenAI API
-- React
+- GitHub API
 
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/xyzcardiff/quickaiapp.git
 cd quickaiapp
-npm install
+pip install -r requirements.txt
 ```
 
 ## 🏃 Running
 
 ```bash
-npm start
+python app.py
 ```
 
 ## 📝 License
@@ -35,4 +35,4 @@ MIT
 
 ---
 *Built automatically by AI Trend App Builder*
-*Date: 2026-03-29*
+*Date: 2026-04-08*
